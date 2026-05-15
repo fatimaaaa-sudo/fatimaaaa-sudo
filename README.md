@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Fatima! 👋
 
-<!--
-**fatimaaaa-sudo/fatimaaaa-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently taking **Harvard's CS50x 2026**. This is my official coding journey portfolio.
 
-Here are some ideas to get you started:
+### 🚀 My CS50 Progress
+- [x] **Week 0: Scratch** (Check out my [Shark Game](https://github.com/fatimaaaa-sudo/cs50-scratch-game)!)
+- [ ] **Week 1: C** (Coming soon...)
+- [ ] **Week 2: Arrays**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** Scratch, C (Learning)
+- **Tools:** GitHub, VS Code
+
+---
+*"The best way to predict the future is to invent it."*
